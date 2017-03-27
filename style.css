@@ -1,0 +1,81 @@
+h1{
+	color: #e6e6e6;
+	text-align: center;
+	font-family: Oswald, sans-serif;
+	font-size: 55pt;
+
+}
+h2{
+	color: #e6e6e6;
+	text-align: center;
+	font-family: Oswald, sans-serif;
+	font-size: 25pt;
+}
+body {
+	background-color: #1a1a1a;
+}
+
+a {
+	color: #dddddd;
+	text-decoration: none;
+	display: block;
+	float: none;
+}
+
+ul {
+	font-family: monospace;
+	list-style: none;
+	padding: 6px 4px 8px 6px;
+	margin: 0;
+	width: 180px;
+	float: left;
+}
+
+input[type="submit"] {display: none;}
+input {
+	background-color:#000000;
+	color: #dddddd;
+	border: none;
+	font-family: monospace;
+	font-size: 20px;
+	padding:0;
+}
+
+#container {
+	margin-right: 20%;	
+	margin-left: 20%; 
+	width: 60%;
+	background-color:#000000;
+	font-family: monospace;
+	font-size: 20px;
+	width: 585px;
+	height: 360px;
+	padding: 2px;
+	border: 6px solid #404040;
+	color:#aaaaaa;
+}
+#search {
+	font-size: 20px;
+	float:left;
+	margin: 0 0 0 6px;
+	padding: 0;
+}
+#links {
+	margin: 7px 0px 0px 2px;
+	font-size: 20px;
+	height: 220px;
+}
+.PS1 {
+	line-height: 20%;
+	padding: 5px 0px 0px 5px;
+	display: block;
+	width: 800px;
+}
+
+.at {float: left;color:#00bf00;}
+.amper { color: #bfbf00; }
+.inp { color: #dddddd; }
+.contact li {color: #40ff40;}
+a.contact:hover {color:#40ff40;}
+.main li {color: #4560ff;}
+a.main:hover {color: #4560ff;}
