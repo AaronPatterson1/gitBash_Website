@@ -51,7 +51,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 					<li><a class="contact" href="https://www.linkedin.com">linkedin.out</a><li>
 				</ul>
 				<br><br><br><br>
-				<p>Click on one of the options listed above. For the CS nerds: You may also type in a command in the command line. For example: cd Videos</p>
+				<p>Click on one of the options listed above. For the CS nerds: You may also type in a command in the command line. For example: cd bitbucket</p>
 				</div>
 				
 				<div class="PS1"><p class="at" style="margin-bottom: 5px;">Guest@Aaron-Patterson&nbsp</p><p class="amper" style="margin-bottom: 10px;"> ~</p><p class="inp" style="float: left; margin-top: 10px;">$&nbsp </p></div>
